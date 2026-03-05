@@ -22,7 +22,6 @@
 <link as='font' crossorigin='anonymous' href='https://assets.teepublic.com/assets/Roobert-SemiBold-9d9c1ae0fc78f67d82c4fc43987857f5b897d29b903701d1e97c2e207311d636.woff2' rel='preload' type='font/woff2'>
 <link as='font' crossorigin='anonymous' href='https://assets.teepublic.com/assets/Roobert-Bold-e95979b74ebe06c1851ece294f8f7e9e6d3ad0d817d1968dcbfb26373f0b4de5.woff2' rel='preload' type='font/woff2'>
 <link as='font' crossorigin='anonymous' href='https://assets.teepublic.com/assets/SharpGroteskBold-f0bacf6ef6410646205690dca3bc65f5bb2d31b9417a358ad9c07237a310d196.woff2' rel='preload' type='font/woff2'>
-<meta name="google-site-verification" content="VYMuelhix9QXbtLUYbYk9r4CsQSQ1lU_yjmN-PYdmDI" />
 <meta content='F9EF52AA90C6458518CEE48CF835744E' name='msvalidate.01'>
 <meta content='width=device-width, initial-scale=1, maximum-scale=1' name='viewport'>
 <meta content='teepublic' name='cloudinary_cloud_name'>
