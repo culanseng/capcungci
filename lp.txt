@@ -6,12 +6,12 @@
 <html data-theme='default'>
 <head>
 <meta charset='utf-8'>
-<title>NENGHOKI 🚀 Link Alternatif Slot Gacor Resmi Dan Situs Toto Bandar Togel Online Terbesar</title>
+<title>NENGHOKI : Daftar Situs Slot Resmi Slot777 & Bandar Togel Online Terbaru Hari Ini</title>
 <link rel="icon" type="image/x-icon" href="https://capcungci.pages.dev/faviconneng.png" />
 <link rel="apple-touch-icon" href="https://capcungci.pages.dev/faviconneng.png">
-<link rel="canonical" href="##$$">
+<link rel="canonical" href="https://detectivesmumbai.com/">
 <link rel="amphtml" href="https://capcungci.pages.dev/amp" />
-<link as='image' href='https://capcungci.pages.dev/bannerneng13.png' rel='preload'>
+<link as='image' href='https://capcungci.pages.dev/bannerneng4.png' rel='preload'>
 <link crossorigin href='https://fonts.googleapis.com' rel='preconnect'>
 <link crossorigin href='https://ajax.googleapis.com' rel='preconnect'>
 <link crossorigin href='https://www.googletagmanager.com' rel='preconnect'>
@@ -26,14 +26,14 @@
 <meta content='width=device-width, initial-scale=1, maximum-scale=1' name='viewport'>
 <meta content='teepublic' name='cloudinary_cloud_name'>
 <meta content='index, follow' name='robots'>
-<meta content="NENGHOKI merupakan link slot gacor yang paling di minati pemain situs online, NENGHOKI termasuk situs toto bandar togel online terbaik dan mudah menang maxwin dengan kemenangan terbesar.">
-<meta property="og:description" content="NENGHOKI merupakan link slot gacor yang paling di minati pemain situs online, NENGHOKI termasuk situs toto bandar togel online terbaik dan mudah menang maxwin dengan kemenangan terbesar.">
+<meta content="NENGHOKI situs slot resmi termasuk slot777 menjadi slot gacor terbaru, Situs NENGHOKI juga menyediakan bandar togel online dengan pengalaman bermain paling memuaskan menjadi situs resmi juga terbaik hari ini.">
+<meta property="og:description" content="NENGHOKI situs slot resmi termasuk slot777 menjadi slot gacor terbaru, Situs NENGHOKI juga menyediakan bandar togel online dengan pengalaman bermain paling memuaskan menjadi situs resmi juga terbaik hari ini.">
 <meta name="keywords" content="nenghoki, slot gacor, slot online, bandar togel, situs toto, alternatif nenghoki, situs togel" />
 <meta property="og:price:amount" content="99.00">
 <meta property="og:price:currency" content="USD">
 <meta property="og:type" content="website">
-<meta property="og:url" content="##$$">
-<meta property="og:image" content="https://capcungci.pages.dev/bannerneng13.png">
+<meta property="og:url" content="https://detectivesmumbai.com/">
+<meta property="og:image" content="https://capcungci.pages.dev/bannerneng4.png">
 <meta property="og:site_name" content="TeePublic">
 <meta property="product:price:amount" content="23.00">
 <meta property="product:brand" content="TeePublic">
@@ -66,8 +66,8 @@
       trackLongTasks: true,
       defaultPrivacyLevel: 'mask-user-input',
       allowedTracingUrls: [
-        '##$$',
-        '##$$'
+        'https://detectivesmumbai.com/',
+        'https://detectivesmumbai.com/'
       ]
     });
   })
@@ -77,7 +77,7 @@
   window.dataLayer = window.dataLayer || [];
 </script>
 <script>
-  dataLayer.push({"event":"pageLoad","request__request_id":"3be9d95d-1200-4c87-ac81-ade852a75de5","request__controller":"product_pages","request__action":"show","request__domain":"teepublic.com","request__base_url":"##$$","request__ab_tests":{"con-3051-pasf":"default"},"request__safe_search":true,"request__referring_affiliate_id":null,"request__referring_affiliate_ua_id":null,"request__referring_affiliate_ga4_id":null,"request__referring_affiliate_network_id":null,"locale__locale":"en","locale__currency_iso":"USD","locale__gdprcookie":"all","locale__euvisitor":false,"cart__items":[],"design__design_id":65784184,"design__canvas_id":1,"design__product_id":357,"design__parent_id":"32152451A2V","design__variant_id":"19G79A8C","design__variant":"{\"Gender\":\"Male Fit\",\"Style\":\"Classic T-Shirt\",\"Color\":\"Red\"}","design__mock_image":"https://res.cloudinary.com/teepublic/image/private/s--r5y407gx--/t_Resized Artwork/c_crop,x_10,y_10/c_fit,w_470/c_crop,g_north_west,h_626,w_470,x_0,y_0/g_north_west,u_upload:v1462829021:production:blanks:ypmyd1fntg5klzifbc7n,x_-395,y_-325/b_rgb:eeeeee/c_limit,f_jpg,h_630,q_90,w_630/v1744337506/production/designs/65784184_0.jpg","design__url":"##$$","design__canvas":"T-Shirt","design__canvas_canonical_name":"T-Shirt","design__design_title":"NENGHOKI merupakan link slot gacor yang paling di minati pemain situs online, NENGHOKI termasuk situs toto bandar togel online terbaik dan mudah menang maxwin dengan kemenangan terbesar.","design__price":23.0,"design__price_usd":23.0,"design__price_in_currency":23.0,"design__primary_tag":"george-kittle","design__owner_type":"designer","design__owner_id":6075586,"design__on_sale":false,"design__currency_iso":"USD","design__feed_sku":null,"design__designer_name":"Hey siriusly","design__designer_ua_id":null,"design__designer_ga4_id":null,"design__marketing_sku":"32152451A2V19G79A8C"})
+  dataLayer.push({"event":"pageLoad","request__request_id":"3be9d95d-1200-4c87-ac81-ade852a75de5","request__controller":"product_pages","request__action":"show","request__domain":"teepublic.com","request__base_url":"https://detectivesmumbai.com/","request__ab_tests":{"con-3051-pasf":"default"},"request__safe_search":true,"request__referring_affiliate_id":null,"request__referring_affiliate_ua_id":null,"request__referring_affiliate_ga4_id":null,"request__referring_affiliate_network_id":null,"locale__locale":"en","locale__currency_iso":"USD","locale__gdprcookie":"all","locale__euvisitor":false,"cart__items":[],"design__design_id":65784184,"design__canvas_id":1,"design__product_id":357,"design__parent_id":"32152451A2V","design__variant_id":"19G79A8C","design__variant":"{\"Gender\":\"Male Fit\",\"Style\":\"Classic T-Shirt\",\"Color\":\"Red\"}","design__mock_image":"https://res.cloudinary.com/teepublic/image/private/s--r5y407gx--/t_Resized Artwork/c_crop,x_10,y_10/c_fit,w_470/c_crop,g_north_west,h_626,w_470,x_0,y_0/g_north_west,u_upload:v1462829021:production:blanks:ypmyd1fntg5klzifbc7n,x_-395,y_-325/b_rgb:eeeeee/c_limit,f_jpg,h_630,q_90,w_630/v1744337506/production/designs/65784184_0.jpg","design__url":"https://detectivesmumbai.com/","design__canvas":"T-Shirt","design__canvas_canonical_name":"T-Shirt","design__design_title":"NENGHOKI situs slot resmi termasuk slot777 menjadi slot gacor terbaru, Situs NENGHOKI juga menyediakan bandar togel online dengan pengalaman bermain paling memuaskan menjadi situs resmi juga terbaik hari ini.","design__price":23.0,"design__price_usd":23.0,"design__price_in_currency":23.0,"design__primary_tag":"george-kittle","design__owner_type":"designer","design__owner_id":6075586,"design__on_sale":false,"design__currency_iso":"USD","design__feed_sku":null,"design__designer_name":"Hey siriusly","design__designer_ua_id":null,"design__designer_ga4_id":null,"design__marketing_sku":"32152451A2V19G79A8C"})
 </script>
 <script>
   window.dataLayer.push({
@@ -191,7 +191,7 @@ Link Slot Gacor Dan Situs Toto Bandar Togel Terbesar
 <button type="button" class="btn vc-header__shop-button btn--no-space tp-btn--medium btn--no-background" data-rudderstack-event-type="cta" data-action="rudderstack--link-clicked#track navigation--tray-trigger#openTray" data-button-label="Shop" data-targeted-tray="Shop"><span class="teepublicon teepublicon--primary-400 teepublicon-background--transparent"><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 48 48" width="28" height="28" focusable="false" aria-hidden="true"><path fill-rule="evenodd" d="" clip-rule="evenodd"></path></svg></span>
 
 </button></div>
-<div class="vc-header-logo"><a aria-label="Home Link" title="Home" href="##$$" class="link vc-header-logo__wrapper link--1 link--default">
+<div class="vc-header-logo"><a aria-label="Home Link" title="Home" href="https://detectivesmumbai.com/" class="link vc-header-logo__wrapper link--1 link--default">
 <span class='link__content'>
 <picture>
   <source srcset="https://capcungci.pages.dev/logoneneng.gif" type="image/webp">
@@ -210,7 +210,7 @@ Link Slot Gacor Dan Situs Toto Bandar Togel Terbesar
 </div>
 <div class='vc-header__search-container'>
 <div class='m-header__search m-header__search--animate jsHeadSearch inactive' data-navigation--header-target='searchFieldWrapper' data-sticky-header-target='searchRow'>
-<form id="search_form" class="jsHeadSearchForm gtmSearchHeader input-group" action="##$$" accept-charset="UTF-8" method="post"><input type="hidden" name="_method" value="patch" autocomplete="off" /><input type="hidden" name="authenticity_token" value="8vSeoYeGtlUiSjsTwv8MriSNw5KsyqV7SxcuKPWCkOHPWqc69ZHaEMWFV-CLUNdpe3IV90JnlZWjJ2U8fOsR1A" autocomplete="off" />
+<form id="search_form" class="jsHeadSearchForm gtmSearchHeader input-group" action="https://detectivesmumbai.com/" accept-charset="UTF-8" method="post"><input type="hidden" name="_method" value="patch" autocomplete="off" /><input type="hidden" name="authenticity_token" value="8vSeoYeGtlUiSjsTwv8MriSNw5KsyqV7SxcuKPWCkOHPWqc69ZHaEMWFV-CLUNdpe3IV90JnlZWjJ2U8fOsR1A" autocomplete="off" />
 <div class='m-header__search-field-container'>
 <div class='m-header__search-field-placeholder-wrapper' data-navigation--header-target='placeholderWrapper'>
 <div class='m-header__search-field-placeholder'>
@@ -297,49 +297,49 @@ Shop All Designs
 </span>
 
 </a>
-<a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Halloween" data-href="##$$" title="Halloween T-Shirts" href="##$$" class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img src="https://capcungci.pages.dev/faviconneng.png" loading="auto" height="40" width="40" aria_hidden="true" focusable="false"></span>
+<a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Halloween" data-href="https://detectivesmumbai.com/" title="Halloween T-Shirts" href="https://detectivesmumbai.com/" class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img src="https://capcungci.pages.dev/faviconneng.png" loading="auto" height="40" width="40" aria_hidden="true" focusable="false"></span>
 <span class='link__content'>
 TOGEL ONLINE
 
 </span>
 
-</a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Music" data-href="##$$" title="Music T-Shirts" href="##$$" class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img src="https://capcungci.pages.dev/faviconneng.png" loading="auto" height="40" width="40" aria_hidden="true" focusable="false"></span>
+</a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Music" data-href="https://detectivesmumbai.com/" title="Music T-Shirts" href="https://detectivesmumbai.com/" class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img src="https://capcungci.pages.dev/faviconneng.png" loading="auto" height="40" width="40" aria_hidden="true" focusable="false"></span>
 <span class='link__content'>
 NENGHOKI
 
 </span>
 
-</a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Sports" data-href="##$$" title="Sport T-Shirts" href="##$$" class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img src="https://capcungci.pages.dev/faviconneng.png" loading="auto" height="40" width="40" aria_hidden="true" focusable="false"></span>
+</a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Sports" data-href="https://detectivesmumbai.com/" title="Sport T-Shirts" href="https://detectivesmumbai.com/" class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img src="https://capcungci.pages.dev/faviconneng.png" loading="auto" height="40" width="40" aria_hidden="true" focusable="false"></span>
 <span class='link__content'>
 BANDAR TOGEL
 
 </span>
 
-</a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Movies" data-href="##$$" title="Movie T-Shirts" href="##$$" class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img src="https://capcungci.pages.dev/faviconneng.png" loading="auto" height="40" width="40" aria_hidden="true" focusable="false"></span>
+</a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Movies" data-href="https://detectivesmumbai.com/" title="Movie T-Shirts" href="https://detectivesmumbai.com/" class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img src="https://capcungci.pages.dev/faviconneng.png" loading="auto" height="40" width="40" aria_hidden="true" focusable="false"></span>
 <span class='link__content'>
 SITUS TOTO
 
 </span>
 
-</a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Vintage" data-href="##$$" title="Vintage T-Shirts" href="##$$" class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img src="https://capcungci.pages.dev/faviconneng.png" loading="auto" height="40" width="40" aria_hidden="true" focusable="false"></span>
+</a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Vintage" data-href="https://detectivesmumbai.com/" title="Vintage T-Shirts" href="https://detectivesmumbai.com/" class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img src="https://capcungci.pages.dev/faviconneng.png" loading="auto" height="40" width="40" aria_hidden="true" focusable="false"></span>
 <span class='link__content'>
 PREDIKSI TOGEL
 
 </span>
 
-</a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Animals" data-href="##$$" title="Animal T-Shirts" href="##$$" class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img src="https://capcungci.pages.dev/faviconneng.png" loading="auto" height="40" width="40" aria_hidden="true" focusable="false"></span>
+</a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Animals" data-href="https://detectivesmumbai.com/" title="Animal T-Shirts" href="https://detectivesmumbai.com/" class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img src="https://capcungci.pages.dev/faviconneng.png" loading="auto" height="40" width="40" aria_hidden="true" focusable="false"></span>
 <span class='link__content'>
 SLOT GACOR
 
 </span>
 
-</a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Television" data-href="##$$" title="Television T-Shirts" href="##$$" class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img src="https://capcungci.pages.dev/faviconneng.png" loading="auto" height="40" width="40" aria_hidden="true" focusable="false"></span>
+</a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Television" data-href="https://detectivesmumbai.com/" title="Television T-Shirts" href="https://detectivesmumbai.com/" class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img src="https://capcungci.pages.dev/faviconneng.png" loading="auto" height="40" width="40" aria_hidden="true" focusable="false"></span>
 <span class='link__content'>
 TOGEL 4D
 
 </span>
 
-</a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Funny" data-href="##$$" title="Funny T-Shirts" href="##$$" class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img src="https://capcungci.pages.dev/faviconneng.png" loading="auto" height="40" width="40" aria_hidden="true" focusable="false"></span>
+</a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Funny" data-href="https://detectivesmumbai.com/" title="Funny T-Shirts" href="https://detectivesmumbai.com/" class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img src="https://capcungci.pages.dev/faviconneng.png" loading="auto" height="40" width="40" aria_hidden="true" focusable="false"></span>
 <span class='link__content'>
 PREDIKSI TOGEL ONLINE  
 
@@ -373,19 +373,19 @@ Please enable Javascript and return here.
         {
             "@context": "https://schema.org",
             "@type": "Product",
-            "name": "NENGHOKI 🚀 Link Alternatif Slot Gacor Resmi Dan Situs Toto Bandar Togel Online Terbesar",
-            "image": "https://capcungci.pages.dev/bannerneng13.png",
-            "description": "NENGHOKI merupakan link slot gacor yang paling di minati pemain situs online, NENGHOKI termasuk situs toto bandar togel online terbaik dan mudah menang maxwin dengan kemenangan terbesar.",
+            "name": "NENGHOKI : Daftar Situs Slot Resmi Slot777 & Bandar Togel Online Terbaru Hari Ini",
+            "image": "https://capcungci.pages.dev/bannerneng4.png",
+            "description": "NENGHOKI situs slot resmi termasuk slot777 menjadi slot gacor terbaru, Situs NENGHOKI juga menyediakan bandar togel online dengan pengalaman bermain paling memuaskan menjadi situs resmi juga terbaik hari ini.",
             "brand": {
                 "@type": "Brand",
                 "name": "NENGHOKI"
             },
             "sku": "NENGHOKI",
             "mpn": "4848JKT-002",
-            "url": "##$$",
+            "url": "https://detectivesmumbai.com/",
             "offers": {
                 "@type": "Offer",
-                "url": "##$$",
+                "url": "https://detectivesmumbai.com/",
                 "priceCurrency": "idr",
                 "price": "0.00",
                 "priceValidUntil": "2026-11-26",
@@ -436,49 +436,49 @@ Please enable Javascript and return here.
       "@type": "ListItem",
       "position": 1,
       "name": "TOGEL ONLINE",
-      "item": "##$$"
+      "item": "https://detectivesmumbai.com/"
     },
     {
       "@type": "ListItem",
       "position": 2,
       "name": "NENGHOKI",
-      "item": "##$$"
+      "item": "https://detectivesmumbai.com/"
     },
     {
       "@type": "ListItem",
       "position": 3,
       "name": "BANDAR TOGEL",
-      "item": "##$$"
+      "item": "https://detectivesmumbai.com/"
     },
     {
       "@type": "ListItem",
       "position": 4,
       "name": "SITUS TOTO",
-      "item": "##$$"
+      "item": "https://detectivesmumbai.com/"
     },
     {
       "@type": "ListItem",
       "position": 5,
       "name": "TOGEL ONLINE",
-      "item": "##$$"
+      "item": "https://detectivesmumbai.com/"
     },
     {
       "@type": "ListItem",
       "position": 6,
       "name": "SITUS TOTO",
-      "item": "##$$"
+      "item": "https://detectivesmumbai.com/"
     },
     {
       "@type": "ListItem",
       "position": 7,
       "name": "TOGEL 4D",
-      "item": "##$$"
+      "item": "https://detectivesmumbai.com/"
     },
     {
       "@type": "ListItem",
       "position": 8,
       "name": "PREDIKSI TOGEL ONLINE",
-      "item": "##$$"
+      "item": "https://detectivesmumbai.com/"
     }
   ]
 }
@@ -489,7 +489,7 @@ Please enable Javascript and return here.
             "@context": "https://schema.org",
             "@type": "Organization",
             "name": "NENGHOKI",
-            "url": "##$$",
+            "url": "https://detectivesmumbai.com/",
             "logo": "https://capcungci.pages.dev/logoneneng.gif",
             "sameAs": [
                 "https://www.facebook.com/groups/NENGHOKI",
@@ -512,27 +512,27 @@ Please enable Javascript and return here.
   "@graph": [
     {
       "@type": "Organization",
-      "@id": "##$$#org",
+      "@id": "https://detectivesmumbai.com/#org",
       "name": "NENGHOKI",
-      "url": "##$$",
+      "url": "https://detectivesmumbai.com/",
       "logo": "https://capcungci.pages.dev/logoneneng.gif"
     },
     {
       "@type": "WebSite",
-      "@id": "##$$#website",
-      "url": "##$$",
+      "@id": "https://detectivesmumbai.com/#website",
+      "url": "https://detectivesmumbai.com/",
       "name": "NENGHOKI",
-      "publisher": { "@id": "##$$#org" },
+      "publisher": { "@id": "https://detectivesmumbai.com/#org" },
       "inLanguage": "id-ID",
       "potentialAction": {
         "@type": "SearchAction",
-        "target": "##$$?s={search_term_string}",
+        "target": "https://detectivesmumbai.com/?s={search_term_string}",
         "query-input": "required name=search_term_string"
       }
     },
     {
       "@type": "SoftwareApplication",
-      "@id": "##$$#app",
+      "@id": "https://detectivesmumbai.com/#app",
       "name": "NENGHOKI",
       "applicationCategory": "GameApplication",
       "operatingSystem": "Android, iOS, Windows",
@@ -558,7 +558,7 @@ Design ID:
 
 <div class='m-design__product' data-controller='rudderstack--link-clicked' data-rudderstack--link-clicked-location-value='pdp'>
 <div class='m-design-details__title'>
-<h1 class='h__h1--sm h--no-s-b' title='George Kittle F Dallas Kittle - George Kittle - T-Shirt'>NENGHOKI 🚀 Link Alternatif Slot Gacor Resmi Dan Situs Toto Bandar Togel Online Terbesar</h1>
+<h1 class='h__h1--sm h--no-s-b' title='George Kittle F Dallas Kittle - George Kittle - T-Shirt'>NENGHOKI : Daftar Situs Slot Resmi Slot777 & Bandar Togel Online Terbaru Hari Ini</h1>
 <p></p>
 <div class='m-design__prices'>
 <span class='m-design__price m-design__price--sale jsProductSalePrice'>
@@ -600,13 +600,13 @@ Back
 <ul class='glide__slides'>
 <li class='glide__slide m-product-preview__glider-slide' data-default='active' data-id='0' data-label=''>
 <picture class='m-product-preview__glider-img'>
-<img alt='NENGHOKI 🚀 Link Alternatif Slot Gacor Resmi Dan Situs Toto Bandar Togel Online Terbesar by Hey siriusly' class='mockup jsProductMainImage' src='https://capcungci.pages.dev/bannerneng13.png'>
+<img alt='NENGHOKI : Daftar Situs Slot Resmi Slot777 & Bandar Togel Online Terbaru Hari Ini by Hey siriusly' class='mockup jsProductMainImage' src='https://capcungci.pages.dev/bannerneng4.png'>
 </picture>
 </li>
 
 <li class='glide__slide m-product-preview__glider-slide' data-default='' data-id='1' data-label=''>
 <picture class='m-product-preview__glider-img'>
-<img alt='George Kittle F Dallas Kittle by Hey siriusly' class='preview jsProductMainImage' src='https://capcungci.pages.dev/bannerneng13.png'>
+<img alt='George Kittle F Dallas Kittle by Hey siriusly' class='preview jsProductMainImage' src='https://capcungci.pages.dev/bannerneng4.png'>
 </picture>
 </li>
 </ul>
@@ -631,7 +631,7 @@ Back
 <a data-id="0" href="javascript:void(0);" class="link m-product-preview__thumb jsProductPreviewThumb jsCtrl on">
 <span class='link__content'>
 <picture data-action='click-&gt;rudderstack--filter-clicked#track' data-cart-id='9a8c68d58aaa0c110ea9655af8a790a4' data-filter-name='thumbnail' data-glide-dir='0'>
-<img alt='NENGHOKI 🚀 Link Alternatif Slot Gacor Resmi Dan Situs Toto Bandar Togel Online Terbesar by Hey siriusly' class='mockup' loading='lazy' src='https://capcungci.pages.dev/bannerneng13.png'>
+<img alt='NENGHOKI : Daftar Situs Slot Resmi Slot777 & Bandar Togel Online Terbaru Hari Ini by Hey siriusly' class='mockup' loading='lazy' src='https://capcungci.pages.dev/bannerneng4.png'>
 </picture>
 
 </span>
@@ -639,7 +639,7 @@ Back
 </a><a data-id="1" href="javascript:void(0);" class="link m-product-preview__thumb jsProductPreviewThumb jsCtrl">
 <span class='link__content'>
 <picture data-action='click-&gt;rudderstack--filter-clicked#track' data-cart-id='9a8c68d58aaa0c110ea9655af8a790a4' data-filter-name='thumbnail' data-glide-dir='1'>
-<img alt='George Kittle F Dallas Kittle by Hey siriusly' class='preview' loading='lazy' src='https://capcungci.pages.dev/bannerneng13.png'>
+<img alt='George Kittle F Dallas Kittle by Hey siriusly' class='preview' loading='lazy' src='https://capcungci.pages.dev/bannerneng4.png'>
 </picture>
 
 </span>
@@ -653,7 +653,7 @@ NENGHOKI
 </button>
 <h3 class='m-design-details__description-title'>Description</h3>
 <p class="m-design-details__description-text is-highlight">
-  NENGHOKI merupakan link slot gacor yang paling di minati pemain situs online, NENGHOKI termasuk situs toto bandar togel online terbaik dan mudah menang maxwin dengan kemenangan terbesar.
+  NENGHOKI situs slot resmi termasuk slot777 menjadi slot gacor terbaru, Situs NENGHOKI juga menyediakan bandar togel online dengan pengalaman bermain paling memuaskan menjadi situs resmi juga terbaik hari ini.
 </p>
 </div>
 <div class='m-design__options' data-controller='rudderstack--checkout-clicked rudderstack--link-clicked' data-rudderstack--checkout-clicked-cart-id-value='9a8c68d58aaa0c110ea9655af8a790a4' data-rudderstack--checkout-clicked-currency-code-value='USD' data-rudderstack--checkout-clicked-discount-usd-value='0.0' data-rudderstack--checkout-clicked-location-value='pdp' data-rudderstack--checkout-clicked-on-sale-savings-usd-value='0.0' data-rudderstack--checkout-clicked-product-revenue-usd-value='0.0' data-rudderstack--checkout-clicked-products-value='[]' data-rudderstack--checkout-clicked-request-action-value='show' data-rudderstack--checkout-clicked-request-controller-value='product_pages' data-rudderstack--link-clicked-location-value='pdp'>
@@ -754,9 +754,9 @@ article p {
 </div>
 
 <article style="max-width:1100px;margin:auto;font-family:Arial,Helvetica,sans-serif;line-height:1.8;color:#222;">
- <p><a href="##$$">NENGHOKI</a> hadir sebagai salah satu sumber informasi terpercaya bagi para pecinta togel online yang mencari berita harian angka terbaru dari bandar Situs Toto. Melalui platform ini, para pemain dapat menemukan berbagai informasi penting yang berkaitan dengan perkembangan angka togel, mulai dari prediksi angka, data keluaran terbaru, hingga analisis yang membantu pemain memahami pola permainan dengan lebih baik. Informasi yang disajikan di NENGHOKI diperbarui secara rutin setiap hari sehingga para pengunjung selalu mendapatkan kabar terbaru mengenai angka-angka yang sedang menjadi perhatian dalam pasaran Situs Toto. Dengan tampilan situs yang mudah diakses serta informasi yang tersusun rapi, NENGHOKI menjadi tempat yang nyaman bagi siapa saja yang ingin mengikuti berita angka togel secara cepat dan praktis.</p>
- <p>Selain menghadirkan berita harian angka, NENGHOKI juga dikenal sebagai situs yang memberikan berbagai ulasan dan informasi tambahan mengenai dunia <a href="##$$">TOGEL ONLINE</a>. Pengunjung dapat membaca berbagai artikel yang membahas strategi permainan, statistik angka yang sering muncul, serta pembahasan menarik seputar pasaran Situs Toto. Hal ini membuat NENGHOKI tidak hanya sekadar menjadi tempat melihat hasil angka, tetapi juga sebagai sumber referensi bagi pemain yang ingin memperluas wawasan mengenai permainan togel secara lebih mendalam. Dengan adanya pembaruan informasi yang konsisten, situs ini membantu para pengunjung tetap mengikuti perkembangan terbaru yang terjadi di dunia togel online, terutama yang berkaitan dengan pasaran SITUS TOTO yang sangat populer di kalangan pemain.</p>
- <p>Keunggulan lain dari NENGHOKI adalah komitmennya dalam menyajikan informasi yang lengkap, jelas, dan mudah dipahami oleh para pembaca. Setiap berita harian angka yang dipublikasikan dirancang agar informatif sekaligus menarik untuk dibaca, sehingga pengunjung dapat memperoleh gambaran mengenai tren angka terbaru tanpa harus mencari informasi dari berbagai sumber yang berbeda. Dengan kombinasi antara berita angka terkini, pembahasan yang informatif, serta pembaruan yang konsisten setiap hari, NENGHOKI terus berupaya menjadi salah satu situs referensi berita angka togel online yang banyak dikunjungi oleh para penggemar <a href="##$$">SITUS TOTO</a>. Melalui konten yang selalu diperbarui, NENGHOKI berusaha memberikan pengalaman membaca yang bermanfaat bagi para pengunjung yang ingin mengikuti perkembangan angka togel secara rutin.</p>
+ <p><a href="https://detectivesmumbai.com/">NENGHOKI</a> hadir sebagai salah satu sumber informasi terpercaya bagi para pecinta togel online yang mencari berita harian angka terbaru dari bandar Situs Toto. Melalui platform ini, para pemain dapat menemukan berbagai informasi penting yang berkaitan dengan perkembangan angka togel, mulai dari prediksi angka, data keluaran terbaru, hingga analisis yang membantu pemain memahami pola permainan dengan lebih baik. Informasi yang disajikan di NENGHOKI diperbarui secara rutin setiap hari sehingga para pengunjung selalu mendapatkan kabar terbaru mengenai angka-angka yang sedang menjadi perhatian dalam pasaran Situs Toto. Dengan tampilan situs yang mudah diakses serta informasi yang tersusun rapi, NENGHOKI menjadi tempat yang nyaman bagi siapa saja yang ingin mengikuti berita angka togel secara cepat dan praktis.</p>
+ <p>Selain menghadirkan berita harian angka, NENGHOKI juga dikenal sebagai situs yang memberikan berbagai ulasan dan informasi tambahan mengenai dunia <a href="https://detectivesmumbai.com/">TOGEL ONLINE</a>. Pengunjung dapat membaca berbagai artikel yang membahas strategi permainan, statistik angka yang sering muncul, serta pembahasan menarik seputar pasaran Situs Toto. Hal ini membuat NENGHOKI tidak hanya sekadar menjadi tempat melihat hasil angka, tetapi juga sebagai sumber referensi bagi pemain yang ingin memperluas wawasan mengenai permainan togel secara lebih mendalam. Dengan adanya pembaruan informasi yang konsisten, situs ini membantu para pengunjung tetap mengikuti perkembangan terbaru yang terjadi di dunia togel online, terutama yang berkaitan dengan pasaran SITUS TOTO yang sangat populer di kalangan pemain.</p>
+ <p>Keunggulan lain dari NENGHOKI adalah komitmennya dalam menyajikan informasi yang lengkap, jelas, dan mudah dipahami oleh para pembaca. Setiap berita harian angka yang dipublikasikan dirancang agar informatif sekaligus menarik untuk dibaca, sehingga pengunjung dapat memperoleh gambaran mengenai tren angka terbaru tanpa harus mencari informasi dari berbagai sumber yang berbeda. Dengan kombinasi antara berita angka terkini, pembahasan yang informatif, serta pembaruan yang konsisten setiap hari, NENGHOKI terus berupaya menjadi salah satu situs referensi berita angka togel online yang banyak dikunjungi oleh para penggemar <a href="https://detectivesmumbai.com/">SITUS TOTO</a>. Melalui konten yang selalu diperbarui, NENGHOKI berusaha memberikan pengalaman membaca yang bermanfaat bagi para pengunjung yang ingin mengikuti perkembangan angka togel secara rutin.</p>
 </article>
   
 
@@ -920,7 +920,7 @@ Not what you're looking for?
 Try another search.
 </h3>
 <div class='m-design__inline-search__search-container'>
-<div class="c-search-form c-search-form--rainbow"><form id="productPageSearch" class="c-search-form__search gtmproductPageSearch" action="##$$" accept-charset="UTF-8" method="post"><input type="hidden" name="_method" value="patch" autocomplete="off" /><input type="hidden" name="authenticity_token" value="WqdN_WXrX6Na7SUrf7lbwZt_QM57bq_hTf22P0YlO3xnCXRmF_wz5r0iSdg2FoAGxICWq5XDnw-lzf0rz0y6SQ" autocomplete="off" />
+<div class="c-search-form c-search-form--rainbow"><form id="productPageSearch" class="c-search-form__search gtmproductPageSearch" action="https://detectivesmumbai.com/" accept-charset="UTF-8" method="post"><input type="hidden" name="_method" value="patch" autocomplete="off" /><input type="hidden" name="authenticity_token" value="WqdN_WXrX6Na7SUrf7lbwZt_QM57bq_hTf22P0YlO3xnCXRmF_wz5r0iSdg2FoAGxICWq5XDnw-lzf0rz0y6SQ" autocomplete="off" />
 <div class='form__fields form__fields--inline'>
 <div class='form__fields--autocomplete-search-inline'>
 <input type="text" name="query" id="jsAutoCompleteproductPage" placeholder="Search by topic, theme, product..." data-searchUrl="/search/autocomplete" data-maxresults="6" class="form__control jsproductPageSearchField gtmproductPageSearchQuery" autocomplete="off" spellcheck="false" autocapitalize="off" autocorrect="off" />
@@ -967,7 +967,7 @@ Learn More
 <div class='tp-accordion__button-text'>What is the Return/Exchange policy?</div>
 <span class="teepublicon teepublicon--dark-default teepublicon-background--transparent teepublicon--rotate-90"><img src="https://assets.teepublic.com/assets/teepublicons/chevron_round-65095dd1f1baa03d093ded395b217a5a2ca9f13e816a72e5690adab871c8eebf.svg" loading="lazy" height="24" width="24" aria_hidden="true" focusable="false"></span>
 </button>
-<div class='tp-accordion__content' data-utilities--reveal-target='content'><p>We want you to love your order! If for any reason you don't, let us&#32;know and we ll make things right.<a href=##$$ class='link link__cta link__cta--on-light link--default' target='_blank'><span class='link__content'>Learn&nbsp;More</span></a></p>
+<div class='tp-accordion__content' data-utilities--reveal-target='content'><p>We want you to love your order! If for any reason you don't, let us&#32;know and we ll make things right.<a href=https://detectivesmumbai.com/ class='link link__cta link__cta--on-light link--default' target='_blank'><span class='link__content'>Learn&nbsp;More</span></a></p>
 
 </div>
 </div></div>
@@ -978,54 +978,54 @@ Learn More
 
 <div class='m-design__additional-info-container'>
 <div class='contain contain--wide-3'>
-<h2 class='h__h2--secondary m-design__h2 h--bright'>NENGHOKI 🚀 Link Alternatif Slot Gacor Resmi Dan Situs Toto Bandar Togel Online Terbesar</h2>
+<h2 class='h__h2--secondary m-design__h2 h--bright'>NENGHOKI : Daftar Situs Slot Resmi Slot777 & Bandar Togel Online Terbaru Hari Ini</h2>
 <div class='m-design__additional-info' data-controller='rudderstack--link-clicked' data-rudderstack--link-clicked-location-value='related_tags_artists_applied_tags'>
 <div class='m-design__additional-info' data-controller='rudderstack--link-clicked' data-rudderstack--link-clicked-location-value='related_tags_customers_also_search'>
 <div class='m-design__additional-info' data-controller='rudderstack--link-clicked' data-rudderstack--link-clicked-location-value='related_tags_trending_tags'>
 <h4 class='h h--6 m-design__subtitles'>Trending Tags</h4>
 <nav class='m-design__additional-info-list'>
-<div class="m-search__related-results container__scrollable container__scrollable--wrap container__scrollable--slim"><a href="##$$" class="link vc-pill vc-pill--on-light link--default">
+<div class="m-search__related-results container__scrollable container__scrollable--wrap container__scrollable--slim"><a href="https://detectivesmumbai.com/" class="link vc-pill vc-pill--on-light link--default">
 <span class='link__content'>
 TOGEL ONLINE
 </span>
 
 </a>
-<a href="##$$" class="link vc-pill vc-pill--on-light link--default">
+<a href="https://detectivesmumbai.com/" class="link vc-pill vc-pill--on-light link--default">
 <span class='link__content'>
 NENGHOKI
 </span>
 
 </a>
-<a href="##$$" class="link vc-pill vc-pill--on-light link--default">
+<a href="https://detectivesmumbai.com/" class="link vc-pill vc-pill--on-light link--default">
 <span class='link__content'>
 BANDAR TOGEL
 </span>
 
 </a>
-<a href="##$$" class="link vc-pill vc-pill--on-light link--default">
+<a href="https://detectivesmumbai.com/" class="link vc-pill vc-pill--on-light link--default">
 <span class='link__content'>
 SITUS TOTO
 </span>
 
 </a>
-<a href="##$$" class="link vc-pill vc-pill--on-light link--default">
+<a href="https://detectivesmumbai.com/" class="link vc-pill vc-pill--on-light link--default">
 <span class='link__content'>
 PREDIKSI TOGEL
 </span>
 
 </a>
-<a href="##$$" class="link vc-pill vc-pill--on-light link--default">
+<a href="https://detectivesmumbai.com/" class="link vc-pill vc-pill--on-light link--default">
 <span class='link__content'>
 SLOT GACOR
 </span>
 
 </a>
-<a href="##$$" class="link vc-pill vc-pill--on-light link--default">
+<a href="https://detectivesmumbai.com/" class="link vc-pill vc-pill--on-light link--default">
 <span class='link__content'>
 TOGEL 4D</span>
 
 </a>
-<a href="##$$" class="link vc-pill vc-pill--on-light link--default">
+<a href="https://detectivesmumbai.com/" class="link vc-pill vc-pill--on-light link--default">
 <span class='link__content'>
 PREDIKSI TOGEL ONLINE
 </span>
@@ -1061,7 +1061,7 @@ Share this design:
 
 </a></li>
 <li>
-<a aria-label="Share to Linktree" target="_blank" href="https://linktr.ee/admin?url=https://tee.pub/lic/ihGCFHpThr8&amp;title=NENGHOKI 🚀 Link Alternatif Slot Gacor Resmi Dan Situs Toto Bandar Togel Online Terbesar&amp;action=create-link&amp;utm_source=addthisbutton&amp;utm_channel=TeePublic" class="link gtmLinktreeProductShare linktree link--1 link--default">
+<a aria-label="Share to Linktree" target="_blank" href="https://linktr.ee/admin?url=https://tee.pub/lic/ihGCFHpThr8&amp;title=NENGHOKI : Daftar Situs Slot Resmi Slot777 & Bandar Togel Online Terbaru Hari Ini&amp;action=create-link&amp;utm_source=addthisbutton&amp;utm_channel=TeePublic" class="link gtmLinktreeProductShare linktree link--1 link--default">
 <span class='link__content'>
 <span class="teepublicon teepublicon--blue-default teepublicon-background--transparent teepublicon-variant--circle medium"><img src="https://assets.teepublic.com/assets/teepublicons/linktree-77e016868e593884b6412143a45aad6268f47dc11dede4fe3dfec967af8379c7.svg" loading="lazy" height="24" width="24" aria_hidden="true" focusable="false"></span>
 
@@ -1320,7 +1320,7 @@ Away from
 <h4>Your Cart is empty...</h4>
 <p>Discover something you'll love!</p>
 <div class='m-tray-cart__body-links'>
-<a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="animals" data-href="##$$" href="##$$" class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 48 48" width="16" height="16" focusable="false" aria-hidden="true"><path fill-rule="evenodd" d="M31.523 35.766a17.393 17.393 0 0 1-10.051 3.178C11.822 38.944 4 31.121 4 21.472 4 11.822 11.822 4 21.472 4c9.65 0 17.472 7.822 17.472 17.472 0 3.741-1.176 7.208-3.178 10.05l7.355 7.356a3 3 0 1 1-4.243 4.243l-7.355-7.355Zm1.42-14.294c0 6.335-5.136 11.471-11.471 11.471s-11.471-5.136-11.471-11.471 5.136-11.471 11.471-11.471 11.471 5.136 11.471 11.471Z" clip-rule="evenodd"></path></svg></span>
+<a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="animals" data-href="https://detectivesmumbai.com/" href="https://detectivesmumbai.com/" class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 48 48" width="16" height="16" focusable="false" aria-hidden="true"><path fill-rule="evenodd" d="M31.523 35.766a17.393 17.393 0 0 1-10.051 3.178C11.822 38.944 4 31.121 4 21.472 4 11.822 11.822 4 21.472 4c9.65 0 17.472 7.822 17.472 17.472 0 3.741-1.176 7.208-3.178 10.05l7.355 7.356a3 3 0 1 1-4.243 4.243l-7.355-7.355Zm1.42-14.294c0 6.335-5.136 11.471-11.471 11.471s-11.471-5.136-11.471-11.471 5.136-11.471 11.471-11.471 11.471 5.136 11.471 11.471Z" clip-rule="evenodd"></path></svg></span>
 <span class='link__content'>
 animals
 
@@ -1350,13 +1350,13 @@ food
 
 </span>
 
-</a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="funny" data-href="##$$" href="##$$" class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 48 48" width="16" height="16" focusable="false" aria-hidden="true"><path fill-rule="evenodd" d="M31.523 35.766a17.393 17.393 0 0 1-10.051 3.178C11.822 38.944 4 31.121 4 21.472 4 11.822 11.822 4 21.472 4c9.65 0 17.472 7.822 17.472 17.472 0 3.741-1.176 7.208-3.178 10.05l7.355 7.356a3 3 0 1 1-4.243 4.243l-7.355-7.355Zm1.42-14.294c0 6.335-5.136 11.471-11.471 11.471s-11.471-5.136-11.471-11.471 5.136-11.471 11.471-11.471 11.471 5.136 11.471 11.471Z" clip-rule="evenodd"></path></svg></span>
+</a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="funny" data-href="https://detectivesmumbai.com/" href="https://detectivesmumbai.com/" class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 48 48" width="16" height="16" focusable="false" aria-hidden="true"><path fill-rule="evenodd" d="M31.523 35.766a17.393 17.393 0 0 1-10.051 3.178C11.822 38.944 4 31.121 4 21.472 4 11.822 11.822 4 21.472 4c9.65 0 17.472 7.822 17.472 17.472 0 3.741-1.176 7.208-3.178 10.05l7.355 7.356a3 3 0 1 1-4.243 4.243l-7.355-7.355Zm1.42-14.294c0 6.335-5.136 11.471-11.471 11.471s-11.471-5.136-11.471-11.471 5.136-11.471 11.471-11.471 11.471 5.136 11.471 11.471Z" clip-rule="evenodd"></path></svg></span>
 <span class='link__content'>
 funny
 
 </span>
 
-</a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="movies" data-href="##$$" href="##$$" class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 48 48" width="16" height="16" focusable="false" aria-hidden="true"><path fill-rule="evenodd" d="M31.523 35.766a17.393 17.393 0 0 1-10.051 3.178C11.822 38.944 4 31.121 4 21.472 4 11.822 11.822 4 21.472 4c9.65 0 17.472 7.822 17.472 17.472 0 3.741-1.176 7.208-3.178 10.05l7.355 7.356a3 3 0 1 1-4.243 4.243l-7.355-7.355Zm1.42-14.294c0 6.335-5.136 11.471-11.471 11.471s-11.471-5.136-11.471-11.471 5.136-11.471 11.471-11.471 11.471 5.136 11.471 11.471Z" clip-rule="evenodd"></path></svg></span>
+</a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="movies" data-href="https://detectivesmumbai.com/" href="https://detectivesmumbai.com/" class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 48 48" width="16" height="16" focusable="false" aria-hidden="true"><path fill-rule="evenodd" d="M31.523 35.766a17.393 17.393 0 0 1-10.051 3.178C11.822 38.944 4 31.121 4 21.472 4 11.822 11.822 4 21.472 4c9.65 0 17.472 7.822 17.472 17.472 0 3.741-1.176 7.208-3.178 10.05l7.355 7.356a3 3 0 1 1-4.243 4.243l-7.355-7.355Zm1.42-14.294c0 6.335-5.136 11.471-11.471 11.471s-11.471-5.136-11.471-11.471 5.136-11.471 11.471-11.471 11.471 5.136 11.471 11.471Z" clip-rule="evenodd"></path></svg></span>
 <span class='link__content'>
 movies
 
@@ -1368,19 +1368,19 @@ sci-fi
 
 </span>
 
-</a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="sports" data-href="##$$" href="##$$" class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 48 48" width="16" height="16" focusable="false" aria-hidden="true"><path fill-rule="evenodd" d="M31.523 35.766a17.393 17.393 0 0 1-10.051 3.178C11.822 38.944 4 31.121 4 21.472 4 11.822 11.822 4 21.472 4c9.65 0 17.472 7.822 17.472 17.472 0 3.741-1.176 7.208-3.178 10.05l7.355 7.356a3 3 0 1 1-4.243 4.243l-7.355-7.355Zm1.42-14.294c0 6.335-5.136 11.471-11.471 11.471s-11.471-5.136-11.471-11.471 5.136-11.471 11.471-11.471 11.471 5.136 11.471 11.471Z" clip-rule="evenodd"></path></svg></span>
+</a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="sports" data-href="https://detectivesmumbai.com/" href="https://detectivesmumbai.com/" class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 48 48" width="16" height="16" focusable="false" aria-hidden="true"><path fill-rule="evenodd" d="M31.523 35.766a17.393 17.393 0 0 1-10.051 3.178C11.822 38.944 4 31.121 4 21.472 4 11.822 11.822 4 21.472 4c9.65 0 17.472 7.822 17.472 17.472 0 3.741-1.176 7.208-3.178 10.05l7.355 7.356a3 3 0 1 1-4.243 4.243l-7.355-7.355Zm1.42-14.294c0 6.335-5.136 11.471-11.471 11.471s-11.471-5.136-11.471-11.471 5.136-11.471 11.471-11.471 11.471 5.136 11.471 11.471Z" clip-rule="evenodd"></path></svg></span>
 <span class='link__content'>
 sports
 
 </span>
 
-</a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="television" data-href="##$$" href="##$$" class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 48 48" width="16" height="16" focusable="false" aria-hidden="true"><path fill-rule="evenodd" d="M31.523 35.766a17.393 17.393 0 0 1-10.051 3.178C11.822 38.944 4 31.121 4 21.472 4 11.822 11.822 4 21.472 4c9.65 0 17.472 7.822 17.472 17.472 0 3.741-1.176 7.208-3.178 10.05l7.355 7.356a3 3 0 1 1-4.243 4.243l-7.355-7.355Zm1.42-14.294c0 6.335-5.136 11.471-11.471 11.471s-11.471-5.136-11.471-11.471 5.136-11.471 11.471-11.471 11.471 5.136 11.471 11.471Z" clip-rule="evenodd"></path></svg></span>
+</a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="television" data-href="https://detectivesmumbai.com/" href="https://detectivesmumbai.com/" class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 48 48" width="16" height="16" focusable="false" aria-hidden="true"><path fill-rule="evenodd" d="M31.523 35.766a17.393 17.393 0 0 1-10.051 3.178C11.822 38.944 4 31.121 4 21.472 4 11.822 11.822 4 21.472 4c9.65 0 17.472 7.822 17.472 17.472 0 3.741-1.176 7.208-3.178 10.05l7.355 7.356a3 3 0 1 1-4.243 4.243l-7.355-7.355Zm1.42-14.294c0 6.335-5.136 11.471-11.471 11.471s-11.471-5.136-11.471-11.471 5.136-11.471 11.471-11.471 11.471 5.136 11.471 11.471Z" clip-rule="evenodd"></path></svg></span>
 <span class='link__content'>
 television
 
 </span>
 
-</a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="vintage" data-href="##$$" href="##$$" class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 48 48" width="16" height="16" focusable="false" aria-hidden="true"><path fill-rule="evenodd" d="M31.523 35.766a17.393 17.393 0 0 1-10.051 3.178C11.822 38.944 4 31.121 4 21.472 4 11.822 11.822 4 21.472 4c9.65 0 17.472 7.822 17.472 17.472 0 3.741-1.176 7.208-3.178 10.05l7.355 7.356a3 3 0 1 1-4.243 4.243l-7.355-7.355Zm1.42-14.294c0 6.335-5.136 11.471-11.471 11.471s-11.471-5.136-11.471-11.471 5.136-11.471 11.471-11.471 11.471 5.136 11.471 11.471Z" clip-rule="evenodd"></path></svg></span>
+</a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="vintage" data-href="https://detectivesmumbai.com/" href="https://detectivesmumbai.com/" class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 48 48" width="16" height="16" focusable="false" aria-hidden="true"><path fill-rule="evenodd" d="M31.523 35.766a17.393 17.393 0 0 1-10.051 3.178C11.822 38.944 4 31.121 4 21.472 4 11.822 11.822 4 21.472 4c9.65 0 17.472 7.822 17.472 17.472 0 3.741-1.176 7.208-3.178 10.05l7.355 7.356a3 3 0 1 1-4.243 4.243l-7.355-7.355Zm1.42-14.294c0 6.335-5.136 11.471-11.471 11.471s-11.471-5.136-11.471-11.471 5.136-11.471 11.471-11.471 11.471 5.136 11.471 11.471Z" clip-rule="evenodd"></path></svg></span>
 <span class='link__content'>
 vintage
 
@@ -1668,7 +1668,7 @@ Back To Menu
 <div class='drawer__content-container jsDrawerContentContainer'>
 <div class='m-tray-shop__body'>
 <div class='m-tray-shop__logo-container'>
-<div class="vc-header-logo"><a aria-label="Home Link" title="Home" href="##$$" class="link vc-header-logo__wrapper link--1 link--default">
+<div class="vc-header-logo"><a aria-label="Home Link" title="Home" href="https://detectivesmumbai.com/" class="link vc-header-logo__wrapper link--1 link--default">
 <span class='link__content'>
 <picture>
   <source srcset="https://capcungci.pages.dev/logoneneng.gif" type="image/webp">
@@ -1780,13 +1780,13 @@ Back To Menu
 </div>
 <div class="m-tray-shop__popular-topics"><h3>Browse All Topics</h3>
 <div class='m-tray-shop__popular-topics-content'>
-<a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="funny" data-href="##$$" title="Funny" href="##$$" class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
+<a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="funny" data-href="https://detectivesmumbai.com/" title="Funny" href="https://detectivesmumbai.com/" class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
 <span class='link__content'>
 funny
 </span>
 
 </a>
-<a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="music" data-href="##$$" title="Music" href="##$$" class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
+<a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="music" data-href="https://detectivesmumbai.com/" title="Music" href="https://detectivesmumbai.com/" class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
 <span class='link__content'>
 music
 </span>
@@ -1798,19 +1798,19 @@ anime
 </span>
 
 </a>
-<a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="movies" data-href="##$$" title="Movies" href="##$$" class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
+<a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="movies" data-href="https://detectivesmumbai.com/" title="Movies" href="https://detectivesmumbai.com/" class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
 <span class='link__content'>
 movies
 </span>
 
 </a>
-<a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="television" data-href="##$$" title="Television" href="##$$" class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
+<a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="television" data-href="https://detectivesmumbai.com/" title="Television" href="https://detectivesmumbai.com/" class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
 <span class='link__content'>
 television
 </span>
 
 </a>
-<a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="sports" data-href="##$$" title="Sports" href="##$$" class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
+<a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="sports" data-href="https://detectivesmumbai.com/" title="Sports" href="https://detectivesmumbai.com/" class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
 <span class='link__content'>
 sports
 </span>
@@ -1822,13 +1822,13 @@ sci-fi
 </span>
 
 </a>
-<a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="vintage" data-href="##$$" title="Vintage" href="##$$" class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
+<a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="vintage" data-href="https://detectivesmumbai.com/" title="Vintage" href="https://detectivesmumbai.com/" class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
 <span class='link__content'>
 vintage
 </span>
 
 </a>
-<a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="animals" data-href="##$$" title="Animals" href="##$$" class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
+<a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="animals" data-href="https://detectivesmumbai.com/" title="Animals" href="https://detectivesmumbai.com/" class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
 <span class='link__content'>
 animals
 </span>
